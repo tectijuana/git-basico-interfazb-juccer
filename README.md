@@ -1,6 +1,25 @@
-# :wave: The Basics of GitHub 
+# Programas de c++
 
-## 🤓 Course overview and learning outcomes 
+##                                                     TECNOLÓGICO NACIONAL DE MÉXICO INSTITUTO TECNOLÓGICO DE TIJUANA 
+                                                                          SUBDIRECCIÓN ACADÉMICA 
+                                                                  DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN 
+
+                                                                                SEMESTRE: 
+                                                                         Febrero - Julio 2022
+
+                                                                                CARRERA: 
+                                                                     Ing. Sistemas Computacionales
+
+                                                                                 MATERIA:
+                                                                           LENGUAJE INTERFAZ
+
+                                                                NOMBRE Y NÚMERO DE CONTROL DEL ALUMNO:
+                                                                Cervantes Correa Juan Eulises	19211612
+
+                                                                         NOMBRE DEL MAESTRO (A):
+                                                                            RENE SOLIS REYES
+
+
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
