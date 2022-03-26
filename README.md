@@ -1,6 +1,8 @@
 # Programas de c++
 
 ###                     TECNOLÓGICO NACIONAL DE MÉXICO INSTITUTO TECNOLÓGICO DE TIJUANA  SUBDIRECCIÓN ACADÉMICA  DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN 
+   [![Heading-Ing-sistemas.png](https://i.postimg.cc/T1LWgvdh/Heading-Ing-sistemas.png)](https://postimg.cc/T5xwvSWX)
+
 ## 
 ####                                                                       SEMESTRE:  Febrero - Julio 2022
 
@@ -22,6 +24,6 @@ Me parecio un reto interesante ya que antes de este curso practicamente mi conta
 
 ## :octocat: Herramientas utilizadas
 
-[![c.png](https://i.postimg.cc/t4Lvx99n/c.png)](https://postimg.cc/ZWxLktBJ)
+
+[![c.png](https://i.postimg.cc/kXWcDzTf/c.png)](https://postimg.cc/7fY7Ws82)
 [![visual-studio-code-2020.png](https://i.postimg.cc/vBPW5v52/visual-studio-code-2020.png)](https://postimg.cc/HcycgXZb)
-[![Heading-Ing-sistemas.png](https://i.postimg.cc/T1LWgvdh/Heading-Ing-sistemas.png)](https://postimg.cc/T5xwvSWX)
