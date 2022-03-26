@@ -1,6 +1,6 @@
 # Programas de c++
 
-##                                                     TECNOLÓGICO NACIONAL DE MÉXICO INSTITUTO TECNOLÓGICO DE TIJUANA 
+###                                                     TECNOLÓGICO NACIONAL DE MÉXICO INSTITUTO TECNOLÓGICO DE TIJUANA 
 ##                                                                           SUBDIRECCIÓN ACADÉMICA 
 ##                                                                  DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN 
 ## 
