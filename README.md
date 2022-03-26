@@ -1,23 +1,16 @@
 # Programas de c++
 
-###                                                     TECNOLÓGICO NACIONAL DE MÉXICO INSTITUTO TECNOLÓGICO DE TIJUANA 
-###                                                                           SUBDIRECCIÓN ACADÉMICA 
-###                                                                  DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN 
+###                     TECNOLÓGICO NACIONAL DE MÉXICO INSTITUTO TECNOLÓGICO DE TIJUANA  SUBDIRECCIÓN ACADÉMICA  DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN 
 ## 
-####                                                                                 SEMESTRE: 
-####                                                                          Febrero - Julio 2022
+####                                                                       SEMESTRE:  Febrero - Julio 2022
 
- ####                                                                                CARRERA: 
- ####                                                                     Ing. Sistemas Computacionales
+ ####                                                                       CARRERA:  Ing. Sistemas Computacionales
 
- ####                                                                                 MATERIA:
- ####                                                                           LENGUAJE INTERFAZ
+ ####                                                                       MATERIA: LENGUAJE INTERFAZ
 
-  ####                                                               NOMBRE Y NÚMERO DE CONTROL DEL ALUMNO:
-  ####                                                               Cervantes Correa Juan Eulises	19211612
+  ####                                                NOMBRE Y NÚMERO DE CONTROL DEL ALUMNO:  Cervantes Correa Juan Eulises	19211612
 
-  ####                                                                       NOMBRE DEL MAESTRO (A):
-  ####                                                                           RENE SOLIS REYES
+  ####                                                                       NOMBRE DEL MAESTRO (A):  RENE SOLIS REYES
 
 
 
